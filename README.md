@@ -7,5 +7,6 @@ Circuit Diagram may be as follows:
 
 for mainv2:
 
-![image](https://user-images.githubusercontent.com/64573872/227761751-6fb34484-742f-4bc9-9ab3-77e097fd23a5.png)
+![image](https://user-images.githubusercontent.com/64573872/227844104-691ebad5-16cd-4559-b3e3-347e4d2efebf.png)
+
 
